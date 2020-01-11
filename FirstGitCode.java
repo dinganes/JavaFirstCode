@@ -9,7 +9,7 @@ public class FirstGitCode {
 
 		System.out.println("Enter the number");
 
-		String read = br.readLine();
+		String read = br.readLine(
 
 		try {
 
